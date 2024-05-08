@@ -52,6 +52,5 @@ int main() {
 }
 
 
-
 //compile: gcc ft_print_alphabet.c -o ft_print_alphabet
 //Execute the compiled binary: ./ft_print_alphabet_solution
